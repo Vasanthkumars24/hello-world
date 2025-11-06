@@ -5,4 +5,4 @@ practice github flow
 daaba college I met worst admistration
 [calculate_sum.py](https://github.com/Vasanthkumars24/hello-world/blob/main/calculate_sum.py)
 
-[google](www.google.com)
+[google](https://www.google.com)
